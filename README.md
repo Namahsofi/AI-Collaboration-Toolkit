@@ -2,6 +2,10 @@
 
 > An open-source methodology and platform for helping mission-driven organizations collaborate effectively with AI through structured AI Collaboration Workflows (ACWs).
 
+## Live Prototype
+
+Try the ACT MVP here: [AI Collaboration Toolkit Live Demo](https://act-toolkit.base44.app)
+
 ---
 
 ## Vision
@@ -9,6 +13,10 @@
 ACT exists because many organizations doing the world's most important work have the fewest resources to adopt AI effectively.
 
 Rather than teaching prompt engineering alone, ACT teaches a repeatable methodology for human-AI collaboration that improves both outcomes and human capability over time.
+
+## Live Prototype
+
+Try the ACT MVP here: [AI Collaboration Toolkit Live Demo](https://act-toolkit.base44.app)
 
 ---
 
